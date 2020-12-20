@@ -1,0 +1,23 @@
+textarea 
+        {
+            width: 100;
+            height: 10vh;
+            padding: 1rem 2rem;
+            display: block;
+            margin: 1rem auto; 
+        }
+ body{
+     background-color: brown;
+
+     text-align : center;
+
+
+    
+ }
+ button{
+     background-color: cornsilk ;
+
+     padding: 1rem 1rem;
+
+     
+ }
